@@ -5,7 +5,12 @@
 using namespace std;
 
 
+
 int main(){
-    cout <<"hello";
+    char  *input;
+    cout <<"melody >> ";
+    cin >> input;
+    cout<<"\n" <<input;
+
 
 }
